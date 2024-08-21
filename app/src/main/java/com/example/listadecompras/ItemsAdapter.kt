@@ -1,6 +1,6 @@
 package com.example.listadecompras
 
-
+// Implementando/Override onCreateViewHolder
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
